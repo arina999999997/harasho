@@ -1,0 +1,1 @@
+The latest license of [elichika](https://github.com/arina999999997/elichika) retroactively apply to all files except official gamedata files.
