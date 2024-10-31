@@ -1,6 +1,17 @@
--- Insert the event story to make event works for partial download
-INSERT INTO m_asset_package_mapping VALUES ("main", "e9ixeh", "420922", NULL, "0", "1")
-
--- This is just a random fixed hash for consistent version number, ideally we would use some hashing algorithm, and it will automatically pack
-UPDATE m_asset_package SET version = "28ef7d2212eb92fb0660e3f8a6266cba8d8c8fd5", pack_num = (SELECT COUNT(*) FROM m_asset_package_mapping WHERE package_key="main") WHERE package_key = "main";
--- UPDATE m_asset_package SET version = lower(hex(randomblob(20))), pack_num = (SELECT COUNT(*) FROM m_asset_package_mapping WHERE package_key="main") WHERE package_key = "main";
+INSERT INTO texture VALUES ("p(R", "talywm", 659018, 108046, -1841386603, 1369731709);
+INSERT INTO texture VALUES ("{.U", "talywm", 0, 469145, 938292403, -261618794);
+INSERT INTO texture VALUES ("8FA", "av1ioc", 995321, 271337, -232707403, -217300870);
+INSERT INTO texture VALUES (";b;", "yss48z", 2234823, 261373, 1472282363, -1608457845);
+INSERT INTO texture VALUES ("r0|", "f9nwgu", 134325, 12559, -373090873, -1335118247);
+INSERT INTO texture VALUES ("}m$", "talywm", 638734, 6614, 504257704, 1665927098);
+INSERT INTO texture VALUES ("Lca", "talywm", 645348, 6741, 1548445837, -1167802877);
+INSERT INTO texture VALUES ("16O", "talywm", 652089, 6929, 234611559, 377660610);
+INSERT INTO texture VALUES ("bR9", "talywm", 469145, 23237, -497278156, 1978448580);
+INSERT INTO texture VALUES ("Q`F", "talywm", 492382, 27576, -1324562698, -1747251179);
+INSERT INTO texture VALUES ("00*", "talywm", 519958, 20735, -821906144, -1542177841);
+INSERT INTO texture VALUES ("=[b", "talywm", 540693, 26431, -2115543729, 1290786569);
+INSERT INTO texture VALUES (">P*", "talywm", 567124, 18979, 258357232, 1094038836);
+INSERT INTO texture VALUES ("cYk", "talywm", 586103, 27316, -1037724936, 1352267518);
+INSERT INTO texture VALUES ("8zj", "talywm", 613419, 25315, -616821868, 985562548);
+INSERT INTO m_asset_package_mapping VALUES("main", "e9ixeh", 420922, NULL, 0, 1);
+UPDATE m_asset_package SET version = "ac9b7a3c172a04e6b7eabdb54214c3bad7e6665b", pack_num = (SELECT COUNT(*) FROM m_asset_package_mapping WHERE package_key="main") WHERE package_key = "main";
