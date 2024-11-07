@@ -1,10 +1,22 @@
 {
     "event_id": 30001,
+	"event_name": {
+		"ja": "秘密のパーティー！",
+		"en": "Secret Party!",
+		"ko": "시크릿 파티!",
+		"zh": "祕密派對！"
+	},
     "booster_item_id": 15001,
     "title_image_path": "?0=",
     "background_image_path": ":Y",
     "board_base_image_path": "+6I",
     "board_deco_image_path": "br{",
     "bgm_asset_path": "bgm_0024",
-    "gacha_master_id": 123456789
+    "gacha_master_id": 123456789,
+	"rule_description_pages_asset_path": [
+		"dE?",
+		"QN(",
+		"&K)",
+		"b@D"
+	]
 }

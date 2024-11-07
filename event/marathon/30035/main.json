@@ -1,10 +1,21 @@
 {
-    "event_id": 30035,
-    "booster_item_id": 15034,
-    "title_image_path": "p(R",
-    "background_image_path": "x:$",
-    "board_base_image_path": "r0|",
-    "board_deco_image_path": null,
-    "bgm_asset_path": "bgm_0024",
-    "gacha_master_id": 123456789
+	"event_id": 30035,
+	"event_name": {
+		"ja": "カワイイ☆ワンダーランド",
+		"en": "Cutie☆Wonderland",
+		"ko": "귀여운☆원더랜드",
+		"zh": "可愛迷人☆夢幻仙境"
+	},
+	"booster_item_id": 15034,
+	"title_image_path": "p(R",
+	"background_image_path": "x:$",
+	"board_base_image_path": "r0|",
+	"board_deco_image_path": null,
+	"bgm_asset_path": "bgm_0024",
+	"gacha_master_id": 123456789,
+	"rule_description_pages_asset_path": [
+		"{.U",
+		"8FA",
+		";b;"
+	]
 }

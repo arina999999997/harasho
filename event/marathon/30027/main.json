@@ -1,0 +1,21 @@
+{
+    "event_id": 30027,
+    "event_name": {
+        "ja": "秋雨クラブ",
+        "en": "Autumn Rain Club",
+        "ko": "가을비 클럽",
+        "zh": "秋雨俱樂部"
+    },
+    "booster_item_id": 15026,
+    "title_image_path": "uBp",
+    "background_image_path": "}wx",
+    "board_base_image_path": "r0|",
+    "board_deco_image_path": null,
+    "bgm_asset_path": "bgm_0024",
+    "gacha_master_id": 123456789,
+    "rule_description_pages_asset_path": [
+        "h@a",
+		"8FA",
+		";b;"
+    ]
+}
