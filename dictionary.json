@@ -1,0 +1,26 @@
+{
+	"beginner_login_bonus": {
+		"ja": "初心者応援♪ログインボーナス",
+		"en": "Fresh Start Login Bonus",
+		"ko": "신입생 응원♪로그인 보너스",
+		"zh": "新手加油♪登入獎勵"
+	},
+	"daily_login_bonus": {
+		"ja": "毎日のログインボーナス",
+		"en": "Daily Login Bonus",
+		"ko": "일반 로그인 보너스",
+		"zh": "每日登入獎勵"
+	},
+	"birthday_login_bonus": {
+		"ja": "スクスタではログインボーナス",
+		"en": " Birthday Login Bonus",
+		"ko": " 생일 로그인 보너스",
+		"zh": "生日登入獎勵"
+	},
+	"event_rule": {
+		"ja": "イベントルール",
+		"en": "Event Rules",
+		"ko": "이벤트 이용 방법",
+		"zh": "活動規則"
+	}
+}
