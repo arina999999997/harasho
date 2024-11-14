@@ -1,0 +1,24 @@
+{
+    "event_id": 30005,
+    "event_name": {
+        "ja": "素敵なところへご招待！",
+        "en": "Invitation to a Wonderful Place!",
+        "ko": "멋진 곳으로의 초대!",
+        "zh": "招待你去個好地方！"
+    },
+    "booster_item_id": 15004,
+    "title_image_path": "4%P",
+    "background_image_path": "fA]",
+    "board_base_image_path": "r0|",
+    "board_deco_image_path": null,
+    "bgm_asset_path": "bgm_0024",
+    "gacha_master_id": 123456789,
+    "rule_description_pages_asset_path": [
+        "o&e",
+        "`mt",
+        "%b9",
+        "Bo~",
+        "#~+",
+        ";b;"
+    ]
+}
