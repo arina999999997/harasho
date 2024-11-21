@@ -59,4 +59,4 @@ INSERT INTO texture VALUES (">P*", "r1tmzy", 579077, 18979, 2114472356, 20362945
 INSERT INTO texture VALUES ("cYk", "r1tmzy", 598056, 27316, -600512953, 1689147171);
 INSERT INTO texture VALUES ("8zj", "r1tmzy", 625372, 25315, -331258180, 1935366518);
 INSERT INTO m_asset_package_mapping VALUES("main", "7d2sna", 420922, NULL, 0, 1);
-UPDATE m_asset_package SET version = "594408aa8e35aac07384baa399cfd0232e729b23", pack_num = (SELECT COUNT(*) FROM m_asset_package_mapping WHERE package_key="main") WHERE package_key = "main";
+UPDATE m_asset_package SET version = "f2ad80e8f35f4d75fea4081eeef1ad6f28f8eedc", pack_num = (SELECT COUNT(*) FROM m_asset_package_mapping WHERE package_key="main") WHERE package_key = "main";

@@ -1,0 +1,24 @@
+{
+    "event_id": 30008,
+    "event_name": {
+        "ja": "それゆけUMA捜索隊",
+        "en": "Cryptid Catchin' Crusade!",
+        "ko": "레츠 고! UMA 탐색대",
+        "zh": "前進吧！UMA探索隊"
+    },
+    "booster_item_id": 15007,
+    "title_image_path": "K9%",
+    "background_image_path": "[V$",
+    "board_base_image_path": "pQ\\",
+    "board_deco_image_path": null,
+    "bgm_asset_path": "bgm_0024",
+    "gacha_master_id": 123456789,
+    "rule_description_pages_asset_path": [
+        "rsv",
+        "]cg",
+        "H!_",
+        "=D=",
+        "vyk",
+		";b;"
+    ]
+}
