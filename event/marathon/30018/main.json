@@ -1,0 +1,21 @@
+{
+	"event_id": 30018,
+	"event_name": {
+		"en": "Night Lights",
+		"ja": "イルミネーションナイト",
+		"ko": "일루미네이션 나이트",
+		"zh": "閃亮燈海之夜"
+	},
+	"booster_item_id": 15017,
+	"title_image_path": "DvP",
+	"background_image_path": "}Oa",
+	"board_base_image_path": "+6I",
+	"board_deco_image_path": null,
+	"bgm_asset_path": "bgm_0024",
+	"gacha_master_id": 123456789,
+	"rule_description_pages_asset_path": [
+		"TjO",
+		"8FA",
+		";b;"
+	]
+}
