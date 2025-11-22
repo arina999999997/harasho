@@ -26,7 +26,7 @@
 	"event_mining_music_appeal_text": {
 		"ja": "<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_rank_vo_1\" width=\"40px\" height=\"40px\" offsety=\"-12px\"/>ボルテージランキング対象曲",
 		"en": "<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_rank_vo_1\" width=\"40px\" height=\"40px\" offsety=\"-12px\"/>Voltage Ranking Song",
-		"ko": "<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_rank_vo_1\" width=\"40px\" height=\"40px\" offsety=\"-12px\"/>볼티지 랭킹 곡이",
-		"zh": "<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_rank_vo_1\" width=\"40px\" height=\"40px\" offsety=\"-12px\"/>張力排名歌曲"
+		"ko": "<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_rank_vo_1\" width=\"40px\" height=\"40px\" offsety=\"-12px\"/>볼티지 랭킹 대상곡",
+		"zh": "<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_rank_vo_1\" width=\"40px\" height=\"40px\" offsety=\"-12px\"/>張力排名對象歌曲"
 	}
 }

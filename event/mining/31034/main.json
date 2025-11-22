@@ -1,0 +1,21 @@
+{
+    "event_id": 31034,
+    "title_image_path": "Dxt",
+    "background_image_path": "vOL",
+    "bgm_asset_path": "bgm_0023",
+    "gacha_master_id": 0,
+    "event_competition_live_ids": [
+        10036,
+        11002,
+        12062
+    ],
+    "event_competition_selection_amount": 3,
+    "rule_description_pages_asset_path": [
+        "vN*",
+        "\u003c:t",
+        "`^Q",
+        "o:K",
+        "!3)"
+    ],
+    "voltage_ranking_topic_reward_asset_path": "}al"
+}
