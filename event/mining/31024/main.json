@@ -1,0 +1,21 @@
+{
+    "event_id": 31024,
+    "title_image_path": "x\\\u003e",
+    "background_image_path": "r9d",
+    "bgm_asset_path": "bgm_0023",
+    "gacha_master_id": 0,
+    "event_competition_live_ids": [
+        11001,
+        11002,
+        12037
+    ],
+    "event_competition_selection_amount": 3,
+    "rule_description_pages_asset_path": [
+        "@S7",
+        "\u003c:t",
+        "`^Q",
+        "o:K",
+        "!3)"
+    ],
+    "voltage_ranking_topic_reward_asset_path": "Wf#"
+}
