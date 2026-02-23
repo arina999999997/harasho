@@ -1,0 +1,24 @@
+{
+    "event_id": 31005,
+    "title_image_path": "24c",
+    "background_image_path": "\u003e64",
+    "bgm_asset_path": "bgm_0023",
+    "gacha_master_id": 0,
+    "event_competition_live_ids": [
+        10015,
+        11008,
+        12001
+    ],
+    "event_competition_selection_amount": 5,
+    "rule_description_pages_asset_path": [
+        "2;B",
+        "IC\u003c",
+        "`^Q",
+        "dOu",
+        "[if",
+        "jG)",
+        "=Sz",
+        "!3)"
+    ],
+    "voltage_ranking_topic_reward_asset_path": "Wcq"
+}
